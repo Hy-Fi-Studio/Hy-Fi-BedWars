@@ -7,6 +7,7 @@ Need help, updates, or support for Hy-Fi Studio plugins and minigames? Join our 
 
 **Discord:** https://discord.gg/UDudEzyBpH
 <img width="1425" height="813" alt="image" src="https://github.com/user-attachments/assets/01ed73e9-e976-409c-994b-4344a7fdc7dd" />
+<img width="1163" height="601" alt="Screenshot 2026-01-21 223328" src="https://github.com/user-attachments/assets/342c53e3-6b54-4d3f-9ada-75e34caaaa34" />
 
 We post:
 - Development updates
